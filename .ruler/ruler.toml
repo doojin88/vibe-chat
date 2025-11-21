@@ -50,7 +50,3 @@ args = ["shadcn@latest", "mcp"]
 [mcp_servers.context7]
 args = ["-y", "@upstash/context7-mcp"]
 command = "npx"
-
-[mcp_servers.chrome-devtools]
-command = "npx"
-args = ["chrome-devtools-mcp@latest"]
